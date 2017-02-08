@@ -1,0 +1,2004 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ran",
+				"random\tstatement"
+			],
+			[
+				"ver",
+				"version_info\tinstance"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"Tk",
+				"tk\tmodule"
+			],
+			[
+				"rand",
+				"randrange\tstatement"
+			],
+			[
+				"QStrin",
+				"QStringRef\tQt Classes"
+			],
+			[
+				"QApp",
+				"QApplication\tQt Classes"
+			],
+			[
+				"Py",
+				"PyQt5"
+			],
+			[
+				"Acton",
+				"Actions\tclass"
+			],
+			[
+				"cla",
+				"classmethod\tclass"
+			],
+			[
+				"action",
+				"action_target\tstatement"
+			],
+			[
+				"actio",
+				"action_target\tstatement"
+			],
+			[
+				"obj",
+				"obj_name"
+			],
+			[
+				"rename",
+				"renames\tfunction"
+			],
+			[
+				"user",
+				"user_promt\tstatement"
+			],
+			[
+				"prom",
+				"user_promt"
+			],
+			[
+				"deta",
+				"details\tstatement"
+			],
+			[
+				"file",
+				"filenames\tforstmt"
+			],
+			[
+				"patt",
+				"patterns\tparam"
+			],
+			[
+				"logg",
+				"logger\tstatement"
+			],
+			[
+				"orig",
+				"original_line\tforstmt"
+			],
+			[
+				"conte",
+				"continue\tkeyword"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"iter",
+				"itertools\tmodule"
+			],
+			[
+				"max_",
+				"max_num_line\tstatement"
+			],
+			[
+				"get_",
+				"get_terminal_size\tfunction"
+			],
+			[
+				"Form",
+				"Formatter\tclass"
+			],
+			[
+				"ope",
+				"opened_files\tstatement"
+			],
+			[
+				"in",
+				"inplace\tparam"
+			],
+			[
+				"path",
+				"pathlib\tmodule"
+			],
+			[
+				"repla",
+				"replace_text\tfunction"
+			],
+			[
+				"add",
+				"addHandler\tfunction"
+			],
+			[
+				"get",
+				"getLogger\tfunction"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"min",
+				"mint\tIntegerField (mint)"
+			],
+			[
+				"con",
+				"content_object"
+			],
+			[
+				"upd",
+				"update_fields\tparam"
+			],
+			[
+				"auto",
+				"auto_now_add\tparam"
+			],
+			[
+				"cont",
+				"continue\tkeyword"
+			],
+			[
+				"pro",
+				"providing_args\tparam"
+			],
+			[
+				"post",
+				"post_migrate\tstatement"
+			],
+			[
+				"diar",
+				"diary_model\tparam"
+			],
+			[
+				"noti",
+				"notify\timport"
+			],
+			[
+				"not",
+				"notifications"
+			],
+			[
+				"create",
+				"create_superuser"
+			],
+			[
+				"msg_",
+				"msg_new_groups"
+			],
+			[
+				"Val",
+				"ValueError\tclass"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"grou",
+				"group_pk\tforstmt"
+			],
+			[
+				"m2m",
+				"m2m_changed\tinstance"
+			],
+			[
+				"uu",
+				"uuid4"
+			],
+			[
+				"dis",
+				"dispatch_uid"
+			],
+			[
+				"f",
+				"fmt"
+			],
+			[
+				"listener",
+				"listener_name\tstatement"
+			],
+			[
+				"list",
+				"listener\tstatement"
+			],
+			[
+				"DE",
+				"DEBUG_SAVEALL\tinstance"
+			],
+			[
+				"set",
+				"set_debug\tfunction"
+			],
+			[
+				"Nu",
+				"NullsLastQuerySet〔class〕"
+			],
+			[
+				"foru",
+				"forums"
+			],
+			[
+				"NU",
+				"NullsLastQuerySet\tclass"
+			],
+			[
+				"Fuzz",
+				"FuzzyInteger\tclass"
+			],
+			[
+				"forma",
+				"format_html\tfunction"
+			],
+			[
+				"Conten",
+				"ContentType\tclass"
+			],
+			[
+				"has",
+				"hasattr\tfunction"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"db_",
+				"db_table"
+			],
+			[
+				"snippet",
+				"snippet_table"
+			],
+			[
+				"admin",
+				"admin_order_field"
+			],
+			[
+				"conten",
+				"contenttypes\tmodule"
+			],
+			[
+				"contn",
+				"content_type_id"
+			],
+			[
+				"sele",
+				"select_params"
+			],
+			[
+				"opinion",
+				"opinion_table"
+			],
+			[
+				"content",
+				"content_type_id"
+			],
+			[
+				"FROM",
+				"Form\tForm"
+			],
+			[
+				"article",
+				"articles"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"Q",
+				"NullsLastQuerySet\tclass"
+			],
+			[
+				"RO",
+				"Round\tclass"
+			],
+			[
+				"regi",
+				"register_model〔function〕"
+			],
+			[
+				"users_",
+				"users_user"
+			],
+			[
+				"SHE",
+				"SCHEMA"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"parse",
+				"parse_args\tfunction"
+			],
+			[
+				"ar",
+				"argparse"
+			],
+			[
+				"A",
+				"ArgumentParser\tclass"
+			],
+			[
+				"loa",
+				"loads\tfunction"
+			],
+			[
+				"RETUN",
+				"RETURN"
+			],
+			[
+				"sl",
+				"slufigy_level_name"
+			],
+			[
+				"RETUNR",
+				"RETURNS"
+			],
+			[
+				"EX",
+				"EXISTS"
+			],
+			[
+				"val",
+				"val_decimal"
+			],
+			[
+				"NOt",
+				"NotImplementedError\tclass"
+			],
+			[
+				"com",
+				"compiler"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"User",
+				"UserAdmin\tclass"
+			],
+			[
+				"lis",
+				"list_display_name\tparam"
+			],
+			[
+				"actia",
+				"activated_list_display_name\tstatement"
+			],
+			[
+				"list_",
+				"list_display"
+			],
+			[
+				"split",
+				"split_objects_by_pages\tfunction"
+			],
+			[
+				"Not",
+				"NotImplementedError\tclass"
+			],
+			[
+				"rhs",
+				"rhs_params\tstatement"
+			],
+			[
+				"lh",
+				"lhs_params\tstatement"
+			],
+			[
+				"crea",
+				"created\tparam"
+			],
+			[
+				"regis",
+				"register_model\timport"
+			],
+			[
+				"anser",
+				"answer_model"
+			],
+			[
+				"Comm",
+				"CommentsConfig\tclass"
+			],
+			[
+				"pre",
+				"prototype"
+			],
+			[
+				"tr",
+				"throw"
+			],
+			[
+				"fiel",
+				"fieldname"
+			],
+			[
+				"field",
+				"fieldnames\tfunction"
+			],
+			[
+				"model",
+				"model\tstatement"
+			],
+			[
+				"cap",
+				"capfirst"
+			],
+			[
+				"Ba",
+				"BadgeQuerySet\tclass"
+			],
+			[
+				"clas",
+				"classproperty\timport"
+			],
+			[
+				"count",
+				"count_polls\tstatement"
+			],
+			[
+				"CH",
+				"CHOICES_NAME\tstatement"
+			],
+			[
+				"CHOI",
+				"CHOICES_KIND\tstatement"
+			],
+			[
+				"CHO",
+				"CHOICES_DESCRIPTION\tstatement"
+			],
+			[
+				"uni",
+				"unique_together"
+			],
+			[
+				"verbos",
+				"verbose_name"
+			],
+			[
+				"CAS",
+				"CASCADE\tfunction"
+			],
+			[
+				"Noti",
+				"Notification\timport"
+			],
+			[
+				"UPDATE",
+				"UPDATED_REPLY\tstatement"
+			],
+			[
+				"UPDA",
+				"UPDATED_MARK\tstatement"
+			],
+			[
+				"UPD",
+				"UPDATED_OPINION\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Project",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Project",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Project",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Project",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Shell.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Shell.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"zeal",
+				"Zeal: Search"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Activation"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Pyth",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"dja",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"Bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"set theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set\tdja",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set sy dja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: dja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"checkbox",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"searc",
+				"Snippet: bs3-input-search"
+			],
+			[
+				"sear",
+				"Snippet: link - search"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"Markd",
+				"Markdown HTML Preview"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"editcon",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"installl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"emmt",
+				"Set Syntax: Emmet"
+			],
+			[
+				"input f",
+				"Snippet: input - file"
+			],
+			[
+				"templa",
+				"Snippet: TemplateView"
+			],
+			[
+				"hidde",
+				"Snippet: input - hidden"
+			],
+			[
+				"submi",
+				"Snippet: input - submit"
+			],
+			[
+				"style",
+				"Snippet: link - stylesheet"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"datet",
+				"Snippet: input - datetime"
+			],
+			[
+				"Bea",
+				"HTMLBeautify"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"js",
+				"Javascript Beautify"
+			],
+			[
+				"Repr",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"tabel",
+				"Snippet: bs3-table-hover"
+			],
+			[
+				"radio",
+				"Snippet: input - radio"
+			],
+			[
+				"check",
+				"Snippet: input - checkbox"
+			],
+			[
+				"View",
+				"Snippet: TemplateView"
+			],
+			[
+				"range",
+				"Snippet: bs3-input-range"
+			],
+			[
+				"input-num",
+				"Snippet: input - number"
+			],
+			[
+				"datetime",
+				"Snippet: input - datetime"
+			],
+			[
+				"input",
+				"Snippet: input - datetime-local"
+			],
+			[
+				"ready",
+				"Snippet: $(document).ready"
+			],
+			[
+				"bs",
+				"Snippet: bs3-button-success"
+			],
+			[
+				"ul",
+				"Snippet: url"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"js b",
+				"Javascript Beautify"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"tfoote",
+				"Snippet: <footer>"
+			],
+			[
+				"tabl",
+				"Snippet: bs3-table"
+			],
+			[
+				"detai",
+				"Snippet: DetailView"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"view",
+				"Snippet: ListView"
+			],
+			[
+				"dura",
+				"Snippet: DurationField (fduration)"
+			],
+			[
+				"defin",
+				"Snippet: DurationField (mduration)"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"DetailView",
+				"Snippet: DetailView"
+			],
+			[
+				"Te",
+				"Snippet: TemplateView"
+			],
+			[
+				"Form",
+				"Snippet: ModelForm"
+			],
+			[
+				"listv",
+				"Snippet: ListView"
+			],
+			[
+				"deta",
+				"Snippet: DetailView"
+			],
+			[
+				"De",
+				"Snippet: DetailView"
+			],
+			[
+				"de",
+				"Snippet: DetailView"
+			],
+			[
+				"admin",
+				"Snippet: Model Admin View"
+			],
+			[
+				"detail",
+				"Snippet: DetailView"
+			],
+			[
+				"Deta",
+				"Snippet: DetailView"
+			],
+			[
+				"Admi",
+				"Snippet: Model Admin View"
+			],
+			[
+				"amdin",
+				"Snippet: Model Admin View"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"isort",
+				"ImportSort: Sort imports"
+			],
+			[
+				"Tem",
+				"Snippet: TemplateView"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"disabled",
+				"Snippet: bs3-sm-button-disabled"
+			],
+			[
+				"TemplateView",
+				"Snippet: TemplateView"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"bs3 link",
+				"Snippet: bs3-link-button"
+			],
+			[
+				"hidd",
+				"Snippet: bs3-input-hidden"
+			],
+			[
+				"bs3 btn",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"bs3 na",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"scri",
+				"Snippet: <script>"
+			],
+			[
+				"pagin",
+				"Snippet: bs3-pagination"
+			],
+			[
+				"form",
+				"Snippet: bs3-form-label"
+			],
+			[
+				"bs3 form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bs3 gly",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"bs3 list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"input bt",
+				"Snippet: bs3-input-group-text-btn"
+			],
+			[
+				"bs3-btn",
+				"Snippet: bs3-button-info"
+			],
+			[
+				"bs3 che",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"table ",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"input-g",
+				"Snippet: bs3-input-group-btn"
+			],
+			[
+				"bs3 input",
+				"Snippet: bs3-input-search"
+			],
+			[
+				"group",
+				"Snippet: bs3-input-group"
+			],
+			[
+				"addon",
+				"Snippet: bs3-input-group-addon"
+			],
+			[
+				"addo",
+				"Snippet: bs3-input-group-addon"
+			],
+			[
+				"form-",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"che",
+				"Snippet: input - checkbox"
+			],
+			[
+				"templ",
+				"Snippet: TemplateView"
+			],
+			[
+				"mod",
+				"Snippet: bs3-modal"
+			],
+			[
+				"pager",
+				"Snippet: bs3-pager"
+			],
+			[
+				"bs3 pagin",
+				"Snippet: bs3-pagination"
+			],
+			[
+				"footer",
+				"Snippet: <footer>"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 556.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1 + 1",
+			"reload",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect('/home/wlysenko/.local/share/anaconda/run/project/anaconda.sock')",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/wlysenko/.local/share/anaconda/run/project/anaconda.sock)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper",
+		"/media/setivolkylany/WorkDisk/Private",
+		"/media/setivolkylany/WorkDisk/Private/Light"
+	],
+	"file_history":
+	[
+		"/home/setivolkylany/.cache/.fr-fcQOtd/Text_Editor/editor.c",
+		"/media/setivolkylany/WorkDisk/Private/A",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/threads_example.c",
+		"/media/setivolkylany/WorkDisk/Private/Light/мудрость",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/main.c",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/Makefile",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/project.sublime-project",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/cgi-bin/index.py",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/cgi-bin/environ.py",
+		"/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper/cgi-bin/form.py",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/game.py",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/python.py",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/cgi-bin/simple.py",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/cgi-bin/simple.c",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/tests/test_db.cpp",
+		"/etc/nginx/nginx.conf",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/problems.c",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/temp.c",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/problems.cpp",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/requests.c",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/index.html",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/python.cgi",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/main.cpp",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/FileA.pro",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/FileA/Makefile",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/apps/gui/main.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/temp/main.py",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/temp/temp.cpp",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/temp/Makefile",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/temp/temp.pro",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/temp.cpp",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/temp.py",
+		"/home/wlysenko/.virtualenvs/temp/project/temp.c",
+		"/home/wlysenko/.virtualenvs/temp/project/temp.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/main.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/settings.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/utils/log.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/commands/__init__.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/tests/__init__.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/utils.py",
+		"/home/wlysenko/anaconda3/envs/ComputerHelper/project/project.sublime-project",
+		"/media/wlysenko/66ABF2AC3D03BAAA/Web/A",
+		"/tmp/PyQt5_gpl-5.7/configure.py",
+		"/usr/lib/python3.4/enum.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/factories.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/utils.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/django/descriptors.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/diaries/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/utils.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/constants.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/library/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/go/first.go",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/scala/first.scala",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/tasks.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/temp.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/django/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/badges/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/newsletters/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/events/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/visits/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/utilities/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/articles/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/forums/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/tags/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/solutions/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/snippets/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/questions/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/polls/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/comments/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/opinions/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/django/models_fields.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/django/models_utils.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/constants.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/helpers.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/badges/querysets.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/urls.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/python/ansi/main.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/shell/Makefile",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/utils/bash/django_bash_completion",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/apps/2.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/apps/3.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/secrets.json",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/Makefile",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/script.sh",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/Makefile",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/bower.json",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/.bowerrc",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/apps/1",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/temp/apps/2",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/.gitignore",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/.coverage",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/badges/management/commands/create_default_badges.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/forums/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/library/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/opinions/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/polls/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/questions/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/snippets/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/solutions/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/tags/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/utilities/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/visits/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/comments/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/badges/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/articles/modelmixins.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/utils.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/badges/behaviors.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/questions/querysets.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/signals.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/followers/signals.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/followers/models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/opinions/mixins_models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/opinions/utils.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/snippets/factories.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/solutions/factories.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/articles/factories.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/mixins_models.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/admin.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/querysets.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/apps.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/core/signals.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/users/querysets.py",
+		"/home/wlysenko/.virtualenvs/programmerHelper/project/apps/notifications/signals.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"MAIN_WINDOW_TITLE",
+			"C_STD_VERSION",
+			"arg",
+			"id",
+			"result_code",
+			"достои",
+			"usleep",
+			"(planning)",
+			"time_now",
+			"threads",
+			"utsname",
+			"setivolkylany@localhost$/media/setivolkylany/WorkDisk/Programming/Projects/MindHelper",
+			"get_platform",
+			"PLATFORM_NAME",
+			"get_platform",
+			"OS_PLATFORM",
+			"get_platform",
+			"PLATFORM",
+			"plannin",
+			"OS",
+			"впер",
+			"впє",
+			"gtk_get_major_version",
+			"compile",
+			"socket",
+			"html",
+			"cgi",
+			"collections",
+			"variables",
+			"number",
+			"fibonacci_number",
+			"sum",
+			"fibonacci_number",
+			"current",
+			"prev",
+			"sum",
+			"fibonacci_number",
+			"current",
+			"number",
+			"size",
+			"array_size",
+			"array",
+			"indexOf",
+			"p_array",
+			"array",
+			"number",
+			"fibonacci",
+			"problem",
+			"random",
+			"asyncio",
+			"func",
+			"coroutine2",
+			"coroutine1",
+			"list",
+			"get",
+			"grid",
+			"pack",
+			"wm_title",
+			"root",
+			"event",
+			"scheduler",
+			"kwargs",
+			"seconds",
+			"scheduler",
+			"    \n",
+			"scheduler",
+			"interval",
+			", ",
+			"sched",
+			"interval",
+			"callback",
+			"btn_start",
+			"WIDTH",
+			"randint",
+			"random",
+			"btn_start",
+			"callback",
+			"rect",
+			"canvas",
+			"app",
+			"count_letters",
+			"punct",
+			"spaces",
+			"letters",
+			"digits",
+			"NAMESPACE2",
+			"str",
+			"QString",
+			"NAMESPACE2",
+			"NAMESPACE3",
+			"NAMESPACE1",
+			"NAMESPACE2",
+			"NAMESPACE1",
+			"\"\";",
+			"namespace",
+			"punct",
+			"isLetter",
+			"str",
+			"digits",
+			"QString",
+			"num1",
+			"s2",
+			"STR_EQUAL",
+			"qt_string1",
+			"endl",
+			"global",
+			"local",
+			"q_str",
+			"local",
+			"global",
+			"qt_string5",
+			"sub_qt_string5",
+			"qt_string5",
+			"qt_string5_",
+			"qt_string5",
+			"qt_string4_",
+			"qt_string3",
+			"qt_string4_",
+			"qt_string3_",
+			"qt_string3",
+			"qt_string",
+			"string",
+			"300",
+			"openFile",
+			"geom",
+			"center_coord",
+			"geom",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_on_",
+			"UserAdminModel,",
+			" 1 phrase",
+			"1 phrase",
+			"('drop', 'slow')",
+			"hide('drop')",
+			"</span></p>",
+			"<p><span class=\"glyphicon",
+			"",
+			"generate_data_for_great_search",
+			"ProgrammerDict",
+			"glossary",
+			"glossaries",
+			"GLOSSARY",
+			"GLOSSARIES",
+			"container_for_phrases_translator",
+			"container_for_phrases_traslator_and_pagination",
+			"sample_phrase_translator",
+			"()\n",
+			"is_superuser",
+			"abs_path_to_folder_with_test",
+			"Music.objects.all()",
+			".rsplit('.', 1)",
+			"return str(self.path).rpartition('.')[-1]",
+			"\"",
+			"\"\"\"",
+			"\"",
+			"title=",
+			"img title",
+			"\\ ",
+			"html",
+			"\\ ",
+			"\\",
+			"Document",
+			"знає",
+			"Якщо",
+			"о",
+			"е",
+			"н. е.",
+			"е",
+			"вѣкъ",
+			" ",
+			"рɣсь",
+			"Кто и зачем строил пирамиды? + Рисунки в пустыне Наска + Боги-архитекторы",
+			"Кто и зачем строил пирамиды? + Рисунки в пустыне Наска + Боги-архитекторы_files",
+			"є",
+			"title",
+			"-",
+			"цѣл",
+			"title",
+			"ч",
+			"вѣра",
+			"є",
+			"іѧ",
+			"ч",
+			"ѣлы",
+			"е",
+			"ʏ",
+			"ȥ",
+			"ψ",
+			"є",
+			"ψ",
+			"Ⱚ",
+			"-",
+			"є",
+			"ѱ",
+			"человѣк",
+			"є",
+			"ʏ",
+			"ȥ",
+			"є",
+			"е",
+			"ѱ",
+			"ѯ",
+			"чьрн",
+			"строй",
+			"|",
+			"",
+			"aaa1111",
+			"aaa111",
+			"aaa11",
+			"aaa1",
+			"aaa",
+			"",
+			"ɣ",
+			"ч",
+			"*",
+			" * ",
+			"/",
+			"ɣ",
+			"ѳ",
+			"ԑ",
+			"ɣ",
+			"ꙗ",
+			"U",
+			"Pl",
+			"щ",
+			"ч"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										915,
+										916
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										876,
+										877
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"project_brat/sitemaps.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
