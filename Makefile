@@ -45,7 +45,7 @@ TEMPFILE='__tempfile__'
 all: compile
 
 compile: $(MAIN_FILE)
-	@ ${CC} ${WARNNING} -std=${C_STD_VERSION} -o ${TEMPFILE} ${MAIN_FILE} ${SHARED_CFLAGS}
+	@ ${CC} ${WARNNING} -std=${C_STD_VERSION} -o ${TEMPFILE} ${MAIN_FILE} ${SHARED_CFLAGS} src/window.c src/menu.c
 	@ ./${TEMPFILE}
 	@ rm ${TEMPFILE}
 

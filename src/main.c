@@ -14,7 +14,7 @@
 #include <glib.h>
 #include <glib/gprintf.h>
 
-#include "main_window.c"
+#include "window.h"
 
 // http://www.bravegnu.org/gtktext/gtktext-0.4.html
 // https://github.com/incessantmeraki/sedit/blob/master/sedit.c
